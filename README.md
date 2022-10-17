@@ -31,6 +31,11 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
+### My  Eastic beanstalk endpoint 
+
+http://image-filter-starter-cde-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://media.istockphoto.com/vectors/africa-map-with-ethnic-motifs-pattern-vector-id1179603987?k=20%26m=1179603987%26s=612x612%26w=0%26h=sgHHfPB3IUVkvxC8suv2p2TMfAw4mbNkNERyxQj4WyI=
+
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
